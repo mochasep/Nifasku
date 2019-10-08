@@ -1,0 +1,447 @@
+<resources>
+    <string name="app_name">Nifasku</string>
+
+    <!--deskripsiA-->
+    <string name="mobilisasi_pertama">Mobilisasi dapat diawali dengan menggerakan kaki</string>
+    <string name="mobilisasi_kedua">Memiringkan tubuh ke kanan dan ke kiri</string>
+    <string name="mobilisasi_ketiga">Duduk, hingga bangun dari tempat yang dilakukan oleh ibu nifas</string>
+
+    <string name="nutrisi_pertama">Makan makanan yang beranekaragam yang mengandung karbohidrat(nasi, roti, gandum),
+        protein hewani(daging, ikan, telur, susu), protein nabati(tempe, tahu, sayuran, dan buah-buahan).
+    </string>
+    <string name="nutrisi_kedua">Mengkonsumsi tambahan kalori tiap hari sebanyak 500 kalori</string>
+    <string name="nutrisi_ketiga">Makan dengan diet berimbang, cukup protein, mineral dan vitamin</string>
+    <string name="nutrisi_keempat">Minum sedikitnya 3 liter setiap hari, terutama setelah menyusui</string>
+    <string name="nutrisi_kelima">Mengkonsumsi tablet zat besi selama masa nifas</string>
+    <string name="nutrisi_keenam">Minum kapsul Vitamin A(200.000 unit) agar dapat memberkikan vitamin A kepada bayi nya
+        melalui ASi
+    </string>
+
+    <string name="kebersihan_pertama">Membersihkan alat kelamin dari depan ke beakang</string>
+    <string name="kebersihan_kedua">Mengganti pembalut sesering mungkin terutama apabila sudah terasa penuh</string>
+    <string name="kebersihan_ketiga">Cuci tangan sebelum dan sesudah membersihkan daerah kelamin</string>
+
+    <string name="istirahat_pertama">Cukup beristiraht, saat bayi tidur ibu beristirahat</string>
+    <string name="istirahat_kedua">Kembali ke kegiatan rumah secara perlahan-lahan</string>
+
+    <string name="tanda_bahaya_pertama">Pendarahan lewat jalan rahim</string>
+    <string name="tanda_bahaya_kedua">Keluar cairan berbau dari jalan rahim</string>
+    <string name="tanda_bahaya_ketiga">Bengkak di wajah tangan dan kaki atau sakit kepala dan kejang</string>
+    <string name="tanda_bahaya_keempat">Demam lebih dari dua hari</string>
+    <string name="tanda_bahaya_kelima">Payudara bengkak, merah dan sakit</string>
+    <string name="tanda_bahaya_keenam">Ibu terlihat sedih dan murung tanpa sebab</string>
+
+    <string name="harus_dihindari_pertama">Jangan membuang ASI yang pertama keluar karena sangat berguna untuk kekebalan
+        tubuh anak
+    </string>
+    <string name="harus_dihindari_kedua">Jangan membersihkan payudara dengan alcohol/povidon iodine/obat merah atau
+        sabun karena bisa terminum oleh bayi
+    </string>
+    <string name="harus_dihindari_ketiga">Jangan mengikat perut terlalu kencang</string>
+    <string name="harus_dihindari_keempat">Jangan menempelkan daun-daunan pada kemaluan karena akan menimbulkan
+        infeksi
+    </string>
+
+    <string name="senam_1"><b>Peralatan dan Perlengkapan</b>\n
+        a. Matras /tempat tidur\n
+        b. bantal\n
+        <b>Persiapan:</b>\n
+        a. Pastikan ibu nifas dalam kondisi baik dan rileks\n
+        b. Jelaskan tentang manfaat dari senam nifas\n
+        b. Pastikan ibu nifas telah mengosongkan kandung kemih</string>
+    <string name="senam_2"> <b>Langkah kegiatan :</b>\n
+        <b>Latihan hari ke-1</b>\n
+        Pernapasan iga
+        \n
+        <b>Sikap :</b>\n
+        Ibu tidur terlentang dengan satu bantal di kepala dan satu bantal di lutut\n
+
+        <b>Gerakan :</b>\n
+        a. Tarik nafas dari dalam hidung usahakan rongga dada dan rongga paru tetap\n
+        b. Keluarkan udara perlahan-lahan dengan menggunakan otot perut\n
+        c. Tahan 3-5 detik lalu istirahat\n
+        b. Lakukan latihan ini sebanyak 15 kali, pagi dan sore
+    </string>
+    <string name="senam_3"><b>Gerakan pergelangan kaki</b>
+        \n
+        <b>Sikap :</b>\n
+        Tidur terlentang dengan satu bantal dengan kedua lutut tetap lurus\n
+
+        <b>Gerakan :</b>\n
+        a. Kaki diputar kearah luar dan kearah dalam
+        b. Lakukan sebanyak lima kali dalam setiap latihan </string>
+    <string name="senam_4"><b>Latihan kontraksi ringan otot perut dan otot bokong</b>\n
+        <b>Sikap :</b>\n
+        Tidur terlentang dengan satu bantal dengan kedua lutut tetap lurus dan kedua tangan disamping\n
+        <b>Gerakan :</b>\n
+        a. Tundukkan kepala, kerutkan pantat kedalam sehingga lepas dari kasur, lepaskan perut sehingga punggung menekan kasur kemudian lepaskan perlahan-lahan\n
+        b. Lakukan 15 kali gerakan pagi dan sore setiap 5 kali gerakan berhenti</string>
+    <string name="senam_5"><b>Latihan hari ke-2</b>\n
+        <b>Latihan otot perut</b>\n
+
+        <b>Sikap :</b>\n
+        Tidur terlentang dengan satu bantal dan kedua lutut tetap lurus\n
+
+        <b>Gerakan :</b>\n
+        a. Angkat kepala sehingga dagu menyentuh dada lalu perlahan-lahan kembali lakukan gerakan ini 5 kali gerakan.\n
+        b. Bengkokan lutut kiri setengah tinggi lalu luruskan kemudian ganti kaki kanan. Lakukan 5 kali gerakan untuk setiap kaki bergantian </string>
+    <string name="senam_6"><b>Latihan kaki</b>\n
+        <b>Sikap :</b>\n
+        Tidur terlentang dengan satu bantal di kepala kedua lutut dibengkokan setengah tinggi pada menempel satu sama lain\n
+        <b>Gerakan :</b>\n
+        Kedua lutut dibawah atau direbahkan kesamping kiri setengah rendah. Bahu tetap pada kasur kembali. Lalu ketengah dan dibawa kembali ke kanan. Lakukan 5 kali gerakan untuk masing-masing sisi
+    </string>
+    <string name="senam_7"><b>Latihan untuk mengembalikan Rahim pada posisi semula</b>\n
+        <b>Sikap :</b>\n
+        Tidur tengkurap dengan kedua bantal menyangga perut bagian bawah satu bantal kecil menyangga punggung kaki, kepala menoleh kekiri atau kekanan, tangan diletakkan dibawah bantal dengan siku sedikit dibengkokkan.\n
+        <b>Gerakan :</b>\n
+        Sikap ini dipertahankan selama 5 menit untuk setiap sisi kepala, lama kelamaan sampai 20 menit, dan gerakan ini dilakukan terus sampai ibu merasa tidak malas lagi </string>
+    <string name="senam_8"><b>Latihan untuk menguatkan otot dada</b>\n
+        <b>Sikap :</b>\n
+        Duduk atau berdiri dengan kedua tangan saling berpegangan pada lengan bawah dekat siku\n
+        Badan lengan atas membentuk sudut 90°.\n
+        <b>Gerakan :</b>\n
+        Kedua tangan mendorong lengan kearah siku tanpa menggeser telapak tangan sampai otot dada terasa tertarik kemudian lepaskan, lakukan gerakan ini sampai 45 kali setiap 15 kali berhenti sebentar untuk istirahat.</string>
+    <string name="senam_9"><b>Latihan hari ke-3</b>\n
+        <b>Latihan menguatkan otot perut</b>\n
+        <b>Sikap :</b>\n
+        Tidur terlentang dengan kedua lutut lurus\n
+        <b>Gerakan :</b>\n
+        Ayunkan kedua lengan kedepan atas sambil mengangkat kepala dan bahu sampai setengah duduk lalu kembali perlahan-lahan. Lakukan 5 kali gerakan </string>
+    <string name="senam_10"><b>Latihan mempertahankan sikap baik</b>\n
+        <b>Sikap :</b>\n
+        Duduk dipinggir tempat tidur atau berdiri dilantai dengan kedua tangan diletakkan diatas kedua sendi bahu\n
+        <b>Gerakan :</b>\n
+        a. Putar sendi bahu sama kearah depan, lalu keatas lalu kebelakang, lalu kebawah, lalu kedepan lagi dan seterusnya\n
+        b. Pada saat arah putaran kebelakang, makan kedua tulang lekat mendekat satu sama lain\n
+        c. Lakukan 15 kali gerakan untuk setiap 5 kali gerakan berhenti sebentar. </string>
+
+    <string name="mengatasi_pertama">Berbagi ceritalah dengan suami tentang kesehatan dan segala hal yang merasa anda
+        terbebani
+    </string>
+    <string name="mengatasi_kedua">Sempatkanlah waktu untuk berendam dengan air hangat bersama dengan aroma sabun
+        relaksasi
+        karena upaya ini akan membuat anda merasa lebih tenang
+    </string>
+    <string name="mengatasi_ketiga">Jangan lupa untuk sarapan pagi</string>
+    <string name="mengatasi_keempat">Hindari mengkonsumsi alkohol dan caffein secara berlebihan</string>
+    <string name="mengatasi_kelima">Atur jadwal tidur, sesuaikan jadwal tidur anda, usahakan untuk memiliki waktu tidur
+        yang cukup
+    </string>
+    <string name="mengatasi_keenam">Berbagi cerita,selain bercerita dengan suami, anda juga dapat berbagi cerita dengan
+        anggota keluarga yang lain
+    </string>
+    <string name="mengatasi_ketujuh">Tahapan beraktifitas, ketika anda selesai persalinan, jangan pernah berfikir bahwa
+        anda
+        harus benar-benar total beristirahat dari pekerjaan rumah, justru itu adalah hal yang salah, tetap lakukan
+        pekerjaan rumah anda
+        asal yang mampu anda kerjaka atau sesuai dengan kapasitas kemampuan kalian
+    </string>
+    <string name="mengatasi_kedelapan">Keluarga mendukung, selain mendapatkan dukungan secara fisik, anda juga patut
+        dapat dukungan
+        secara emosional dari keluarga, saudara dan lingkungan terdekat anda
+    </string>
+    <string name="mengatasi_kesembilan">Berusaha mengendalikan emosi juga salah satu cara mengatasi gangguan psikologi
+        pada masa nifas
+    </string>
+    <string name="mengatasi_kesepuluh">Luangkan waktu untuk diri sendiri, hal yang bisa anda lakukan untuk memanjakan
+        diri anda adalah
+        bisa dengan melakukan hobi yang anda sukai seperti karaoke di rumah
+    </string>
+    <string name="mengatasi_kesebelas">Bertemu dengan orang baru, cara ini juga dapat mengatasi gangguan psikologis pada
+        masa nifas
+        Selepas melahirkan jangan pernah menutup diri untuk tidak bertemu dengan siapa-siapa
+    </string>
+
+    <!--deskripsiB-->
+    <string name="pemberian_asi_pertama">ASI yang keluar pertama berwarna kekuningan (kolostrum) mengandung zat
+        kekebalan
+        tubuh, langsung berikan pada bayi, jangan di buang
+    </string>
+    <string name="pemberian_asi_kedua">Berikan hanya ASI saja sampai berusia 6 bulan (ASI Eksklusif)</string>
+
+    <string name="cara_menyusui_pertama">Susui bayi sesering mungkin, semau bayi, paling sedikit 8 kali sehari</string>
+    <string name="cara_menyusui_kedua">Bila bayi tidur lebih dari 3 jam, bangunkan, lalu susui</string>
+    <string name="cara_menyusui_ketiga">Susui sampai payudara terasa kosong, lalu pindah ke payudara sisi yang lain
+    </string>
+    <string name="cara_menyusui_keempat">Bila bayi sudah kenyang,tapi payudara masih terasa penuh/kencang, perlu
+        dikosongkan dengan di perah untuk disimpan.
+    </string>
+
+    <string name="cara_menjaga_bayi_pertama">Mandikan bayi minimal setelah 6 jam dilahirkan, dimandikan dengan air
+        hangat.
+    </string>
+    <string name="cara_menjaga_bayi_kedua">Bayi harus berpakain dan diselimuti setiap saat, memakai pakaian kering dan
+        lembut
+    </string>
+    <string name="cara_menjaga_bayi_ketiga">Ganti popok dan baju jika basah</string>
+    <string name="cara_menjaga_bayi_keempat">Jangan tidurkan bayi ditempat dingin atau banyak angina</string>
+    <string name="cara_menjaga_bayi_kelima">Jaga bayi tetap hangat dengan menggunakan topi, kaos kaki, kaos tangan dan
+        pakaian yang hangat pada saat tidak dalam dekapan.
+    </string>
+
+    <string name="posisi_menyusui_pertama">Pastikan posisi ibu ada dalam posisi yang nyaman</string>
+    <string name="posisi_menyusui_kedua">Kepala dan badan bayi berada dalam garis lurus</string>
+    <string name="posisi_menyusui_ketiga">Wajah bayi menghadap payudara, hidung berhadapan dengan putting</string>
+    <string name="posisi_menyusui_keempat">Ibu harus memeluk badan bayi dekat dengan badannya</string>
+    <string name="posisi_menyusui_kelima">Jika bayi baru lahir, ibu harus menyangga seluruh badan bayi</string>
+    <string name="posisi_menyusui_keenam">Sebagian areola (bagian hitam disekitar puting) masuk ke dalam mulut bayi,
+        bibir bawah melengkung ke luar, dagu menyentuh payudara ibu
+    </string>
+    <string name="posisi_menyusui_ketujuh">Posisi Menyusui bayi kembar</string>
+    <string name="posisi_menyusui_kedelapan">Menyendawakan bayi setelah menyusui</string>
+
+    <string name="tanda_bahaya_bbl_pertama">Tidak mau menyusui</string>
+    <string name="tanda_bahaya_bbl_kedua">Kejang-kejang</string>
+    <string name="tanda_bahaya_bbl_ketiga">Lemah</string>
+    <string name="tanda_bahaya_bbl_keempat">Sesak Nafas (lebih besar atau sama dengan 60 kali/menit), tarikan dinding
+        dada bagian bawah ke dalam
+    </string>
+    <string name="tanda_bahaya_bbl_kelima">SBayi merintih atau menangis terus menerus</string>
+    <string name="tanda_bahaya_bbl_keenam">Tali pusar kemerahan sampai dinding perut, berbau atau bernanah</string>
+    <string name="tanda_bahaya_bbl_ketujuh">Demam/ panas tinggi</string>
+    <string name="tanda_bahaya_bbl_kedelapan">Mata bayi bernanah</string>
+    <string name="tanda_bahaya_bbl_kesembilan">Diare / buang air besar cair lebih dari 3 kali sehari</string>
+    <string name="tanda_bahaya_bbl_kesepuluh">Kulit dan Mata bayi kuning</string>
+    <string name="tanda_bahaya_bbl_kesebelas">Tinja bayi saat buang air besar berwarna pucat</string>
+
+    <string name="tali_pusat_pertama">Selalu cuci tangan dengan sabun dan air bersih mengalir sebelum dan sesudah
+        memegang bayi
+    </string>
+    <string name="tali_pusat_kedua">Jangan memberikan apapun pada tali pusat</string>
+    <string name="tali_pusat_ketiga">Rawat tali pusar terbuka dan kering</string>
+    <string name="tali_pusat_keempat">Bila tali pusar kotor atau basah, cuci dengan air bersih dan sabun mandi dan
+        keringkan dengan kain bersih.
+    </string>
+    <string name="tali_pusat_kelima">Pemakaian popok di bawah tali pusat, apabila tali pusat belum kering</string>
+
+    <string name="memandikan_bayi_pertama">Mempersiapkan alat\n
+        1. Air dingin dan hangat\n
+        2. Sabun untuk bayi\n
+        3. Shampo bayi\n
+        4. Bak mandi bayi\n
+        5. Perlak\n
+        6. Waslap\n
+        7. Handuk\n
+        8. Kapas basah \n
+        9. Pakaian bayi\n
+        10. Selimut
+    </string>
+    <string name="memandikan_bayi_kedua">Memastikan suhu ruangan tetap hangat</string>
+    <string name="memandikan_bayi_ketiga">Mencuci tangan</string>
+    <string name="memandikan_bayi_keempat">Menuangkan air mandi ke dalam bak mandi bayi</string>
+    <string name="memandikan_bayi_kelima">Meletakan bayi diatas perlak dan membuka pakaiannya</string>
+    <string name="memandikan_bayi_keenam">Membersihkan tali pusat dengan kapas basah</string>
+    <string name="memandikan_bayi_ketujuh">Membersihkan daerah genital dan anus ( bersihkan feses / mekonium bila bayi
+        BAB)
+    </string>
+    <string name="memandikan_bayi_kedelapan">Mengeramasi rambut bayi dengan shampo</string>
+    <string name="memandikan_bayi_kesembilan">Membersihkan seluruh tubuh bayi dengan shampoo</string>
+    <string name="memandikan_bayi_kesepuluh">egang bayi dengan cara menyangga tubuhnya dan pegang erat ketiaknya.
+    </string>
+    <string name="memandikan_bayi_kesebelas">Memindahkan bayi ke dalam bak mandi</string>
+    <string name="memandikan_bayi_keduabelas">Membersihkan badan bayi dan kepala bayi bagian depan menggunakan waslap
+    </string>
+    <string name="memandikan_bayi_ketigabelas">Membalikan badan bayi dan bersihkan bagian punggung menggunakan waslap
+    </string>
+    <string name="memandikan_bayi_keempatbelas">Mengangkat bayi dari bak mandi</string>
+    <string name="memandikan_bayi_kelimabelas">Mengeringkan tubuh bayi dengan handuk dan rapikan bayi</string>
+    <string name="memandikan_bayi_keenambelas">Mengenakan popok dan pakaian bayi yang bersih dan kering</string>
+    <string name="memandikan_bayi_ketujuhbelas">Membungkus bayi segera menggunakan selimut</string>
+    <string name="memandikan_bayi_kedelapanbelas">Memberikan bayi pada ibu</string>
+    <string name="memandikan_bayi_kesembilanbelas">Merapikan alat-alat</string>
+    <string name="memandikan_bayi_keduapuluh">Cuci tangan</string>
+    
+    <string name="info_pengertian">adalah pemberian vaksin kepada seseorang untuk melindunginya dari beberapa penyakit tertentu. Imunisasi merupakan upaya untuk mencegah penyakit lewat peningkatan kekebalan tubuh seseorang (Badan Litbangkes, 2008). Imunisasi merupakan suatu upaya pencegahan yang paling efektif untuk mencegah penularan penyakit hepatitis B. Word Health Organization (WHO) melalui program The Expanded Program on Immunisation (EPI) merekomendasikan pemberian vaksinasi terhadap 7 jenis antigen penyakit sebagai imunisasi rutin di Negara berkembang, yaitu BCG, DPT, Polio, Campak dan Hepatitis B.</string>
+    <string name="info_tujuan">adalah untuk mencegah terjadinya penyakit tertentu pada seseorang dan menghilangkan penyakit tertentu pada sekelompok masyarakat (populasi) atau bahkan menghilangkan penyakit tertentu dari dunia seperti pada imuniasi cacar variola. Keadaan yang terakhir ini lebih mungkin terjadi pada jenis penyakit yang hanya dapat ditularkan manusia, penyakit difteria (Matondang, C.S., Siregar, 2008).</string>
+    <string name="info_jadwal_usia1">USIA</string>
+    <string name="info_jadwal_usia2"> 0-7 hari</string>
+    <string name="info_jadwal_usia3">1 Bulan</string>
+    <string name="info_jadwal_usia4">2 Bulan</string>
+    <string name="info_jadwal_usia5">U 3 Bulan</string>
+    <string name="info_jadwal_usia6">4 Bulan</string>
+    <string name="info_jadwal_usia7">9 Bulan</string>
+
+    <string name="info_jadwal_vaksin1">VAKSIN</string>
+    <string name="info_jadwal_vaksin2">Vaksin HB-O</string>
+    <string name="info_jadwal_vaksin3">Vaksin BCG, Polio 1</string>
+    <string name="info_jadwal_vaksin4">Vaksin DPT/HB Combo 1, Polio 2</string>
+    <string name="info_jadwal_vaksin5">Vaksin DPT/HB Combo 2, Polio 3</string>
+    <string name="info_jadwal_vaksin6">Vaksin DPT/ HB Combo 3, Polio 4</string>
+    <string name="info_jadwal_vaksin7">Vaksin Campak</string>
+
+    <!--deskripsiC-->
+    <string name="kb_pertama">
+        Alat kontrasepsi berupa pil juga yang dikenal dengan nama pil KB terdapat dalam dua jenis,
+        yaitu pil kombinasi dan pil mini. Pil kombinasi adalah yang mengandung hormon estrogen dan progesteron,
+        sedangkan pil mini,
+        yang mengandung hormon progesteron (progestin). Dari kandungan tersebut bisa kita katahui bahwa penggunaan pil
+        kombinasi
+        saat Anda menyusui kurang dianjurkan. Biasanya, dokter akan menganjurkan pil mini yang hanya mengandung hormon
+        progesteron
+        saat Anda sedang menyusui. Kebalikan dari estrogen, progesteron justru dapat membantu produksi ASI. Namun, perlu
+        diingat pil mini
+        harus dikonsumsi di waktu yang sama setiap hari.
+    </string>
+    <string name="kb_kedua">
+        merupakan alat KB jangka panjang yang tidak permanen. Jika Anda memilih alat KB ini,
+        dokter akan memasukkan alat yang berbentuk seperti huruf T ini ke dalam rahim. Alat kontrasepsi jenis ini ada
+        dua,
+        yaitu dari tembaga dan tidak mengandung hormon sama sekali serta yang mengandung progesteron. Keduanya bisa
+        dipilih
+        sebagai alat kontrasepsi yang aman digunakan saat menyusui karena tidak memengaruhi produksi ASI.
+    </string>
+    <string name="kb_ketiga">
+        Jika tidak suka rahim dimasuki alat, seperti IUD, Anda bisa mencoba alat kontrasepsi berupa implan.
+        Implan mengandung hormon progesteron dan ditempatkan di bawah kulit pada lengan atas. Cara ini bisa dipakai
+        untuk
+        mencegah kehamilan selama tiga tahun.
+    </string>
+    <string name="kb_keempat">
+        Cara ini juga lazim dikenal sebagai KB suntik. Suntikan ini bisa dilakukan
+        setiap tiga bulan sekali di penyedia layanan kesehatan. Suntikan ini juga aman untuk ibu menyusui karena hanya
+        mengandung hormon progesteron yang tidak akan mengganggu produksi ASI. Namun, kelemahannya adalah masalah
+        kesuburan
+        yang lebih sulit untuk kembali setelah berhenti mendapatkan suntikan ini. Untuk mengembalikan kesuburan,
+        biasanya
+        dibutuhkan waktu sekitar satu tahun.
+    </string>
+    <string name="kb_kelima">
+        Metode penghalang bertujuan untuk menghalangi sperma masuk ke dalam rahim.
+        Metode ini tidak mengandung hormon sama sekali, sehingga tidak masalah jika digunakan selama menyusui. Beberapa
+        alat
+        yang menerapkan metode ini di antaranya: Kondom. Dapat Anda gunakan setiap Anda berhubungan seksual untuk
+        mencegah
+        kehamilan. Diafragma merupakan alat yang dirancang untuk menutup serviks, sehingga menghalangi sperma masuk.
+        Kap serviks. Alat ini juga menutupi serviks.
+    </string>
+    <string name="kb_keenam">
+        1) Suami memakai kondom setiap berhubungan seksual.\n
+        2) Istri minum pil KB tiap hari secara teratur.\n
+        3) Istri disuntik KB.\n
+        4) Di lengan istri dipasangi susuk KB.\n
+        5) Pasangi alat kontrasepsi dalam rahim (AKDR).
+    </string>
+
+    <string name="info_kb">Pada umumnya, semua alat kontrasepsi selama menyusui aman untuk digunakan.Tetapi
+        beberapa alat kontrasepsi yang mengandung hormon estrogen dapat menurunkan produksi air susu ibu (ASI).
+        Oleh karena itu, sebaiknya pilih alat kontrasepsi yang tidak mengandung hormon tersebut. apa saja ?
+    </string>
+
+    <!--deskripsiD-->
+    <!--Mitos dan fakta Ibu Nifas-->
+    <string name="mitos_1">Selama masa nifas, tidak boleh keluar rumah selama 40 hari.</string>
+    <string name="mitos_2">Selama masa nifas tidak boleh berhubungan intim suami-istri.</string>
+    <string name="mitos_3">Ibu nifas tidak boleh tidur siang</string>
+    <string name="mitos_4">Ibu nifas tidak boleh keramas agar tidak masuk angin.</string>
+    <string name="mitos_5">Kaki ibu nifas harus tetap lurus supaya aliran darah tetap lancar.</string>
+    <string name="mitos_6">Harus menggunakan stagen selama masa nifas.</string>
+    <string name="mitos_7">Ibu nifas harus diurut supaya rahim cepat pulih.</string>
+    <string name="mitos_8">ASI pada hari pertama tidak boleh diberikan pada bayi baru lahir karena belum matang.
+    </string>
+    <string name="mitos_9">Menyematkan benda tajam pada baju akan melindungi ibu dari makhluk halus.</string>
+    <string name="mitos_10">Dilarang makan ikan, telur dan daging agar jahitan cepat sembuh dan kering..</string>
+    <string name="mitos_11">Tidak boleh makan salak dan sirsak agar tidak terjadi perdarahan.</string>
+    <string name="mitos_12">Ibu nifas harus mengkonsumsi jamu bersalin.</string>
+    <string name="mitos_13">Ibu nifas tidak boleh makan-makanan yang pedas agar ASI tidak menjadi pedas.</string>
+    <string name="mitos_14">Ibu nifas jangan makan buah-buahan selama menyusui agar bayi tidak diare</string>
+    <string name="mitos_15">Tidak boleh makan yang berkuah dan tidak boleh banyak minum air putih.</string>
+
+    <string name="fakta_1">Tidak ada pantangan keluar rumah, ibu nifas harus melakukan latihan fisik secara bertahap,
+        misalnya jalan-jalan sekitar rumah untuk mempercepat pemulihan dan mencegah komplikasi seperti gangguan
+        pembekuan darah
+    </string>
+    <string name="fakta_2">Disarankan untuk menunda hubungan seksual sampai 6 minggu setelah melahirkan yaitu setelah
+        melakukan pemeriksaan pasca persalinan dan dinyatakan oleh dokter/bidan sudah boleh berhubungan intim kembali.
+        Hubungan intim
+        boleh dilakukan begitu perdarahan berhenti dan ibu sudah merasa pulih dan nyaman.
+    </string>
+    <string name="fakta_3">Ibu nifas harus istirahat dengan cukup, dianjurkan untuk tidur setiap bayi tertidur.</string>
+    <string name="fakta_4">Ibu nifas harus tetap menjaga kebersihan dengan mandi dan keramas secara teratur.</string>
+    <string name="fakta_5">Latihan fisik ringan seperti berjalan dan senam dapat membantu aliran darah tetap lancar dan
+        tidak membeku.
+    </string>
+    <string name="fakta_6">Stagen atau korset boleh digunakan untuk menyangga dinding perut yang kendor, tetapi tidak
+        terlalu kencang agar tidak mengganggu pernapasan dan kontraksi Rahim.
+    </string>
+    <string name="fakta_7">Urut atau pijat khusus pada perut tidak dianjurkan, ibu nifas bisa mengurut rahimnya sendiri
+        untuk mempercepat pengecilan ahim. Pemijatan untuk wanita pasca melahirkan bisa dilakukan untuk daerah kaki,
+        tangan, punggung dan kepala.
+    </string>
+    <string name="fakta_8">ASI harus diberikan sedini mungkin begitu bayi lahir, ASI pada hari pertama mengandung
+        kolostrum yang baik untuk kekebalan tubuh bayi.
+    </string>
+    <string name="fakta_9">Menyematkan benda tajam pada baju berisiko mencederai ibu maupun bayi.</string>
+    <string name="fakta_10">Tidak ada pantangan makan untuk ibu nifas kecuali didapati alergi makanan. Protein seperti
+        ikan, telur, daging, tahu, tempe justru sangat diperlukan untuk mempercepat pemulihan tubuh pasca bersalin,
+        termasuk penyembuhan luka jahitan.
+    </string>
+    <string name="fakta_11">Tidak ada pantangan makanan khusus untuk ibu nifas kecuali ada alergi makanan, makanan
+        bergas, terlalu asam dan pedas serta batasi konsumsi makanan dan minuman yang berkafein seperti kopi dan teh.
+    </string>
+    <string name="fakta_12">Ibu nifas tidak dianjurkan untuk mengkonsumsi jamu bersalin.</string>
+    <string name="fakta_13">Tidak ada pantangan khusus untuk ibu nifas kecuali memang ada alergi makanan.</string>
+    <string name="fakta_14">Ibu nifas yang mengkonsumsi buah-buahan tidak menyebabkan diare pada bayi. Konsumsi
+        buah-buahan sangat baik untuk menjaga kebugaran tubuh pada ibu nifas dan sama sekali tidak berpengaruh buruk
+        terhadap mutu ASI.
+    </string>
+    <string name="fakta_15">Tubuh ibu nifas justru membutuhkan banyak cairan terutama mengganti cairan tubuh yang hilang
+        saat perdarahan, keringat dan untuk pembentukan ASI. Sebaiknya ibu nifas minum air putih yang cukup kurang lebih
+        8 gelas sehari disertai dengan asupan susu maupun jus buah.
+    </string>
+
+    <!--Mitos dan Fakta BBL-->
+    <string name="mitosBBL_1">Bayi tidak boleh keluar sebelum berusia 40 hari</string>
+    <string name="mitosBBL_2">Bayi harus dibedong supaya kaki tidak bengkok</string>
+    <string name="mitosBBL_3">Bayi harus dipakaikan gurita supaya perut tidak buncit</string>
+    <string name="mitosBBL_4">Bayi dipakaikan kaus kaki dan sarung tangan agar selalu hangat</string>
+    <string name="mitosBBL_5">Menarik hidung bayi setiap kali mandi akan membuat mancung</string>
+    <string name="mitosBBL_6">Kuku bayi tidak boleh dipotong sebelum usia 40 hari</string>
+    <string name="mitosBBL_7">Bayi diberi makan pisang agar lebih tahan lapar</string>
+    <string name="mitosBBL_8">Mengorok merupakan hal yang tidak normal pada bayi</string>
+    <string name="mitosBBL_9">Membiarkan bayi menangis baik untuk perkembangan paru-paru</string>
+    <string name="mitosBBL_10">Vaksin mengandung bahan yang dapat berbahaya untuk bayi, misalnya menyebabkan autis
+    </string>
+    <string name="mitosBBL_11">Bulu mata bayi harus digunting supaya lentik</string>
+    <string name="mitosBBL_12">Menekankan cabai merah atau bawang merah ke pipi bayi dapat menciptakan lesung pipi
+    </string>
+
+    <string name="faktaBBL_1">Bayi baru lahir rentan terhadap infeksi karena kekebalan tubuh yang belum sempurna. Bayi
+        boleh keluar rumah tetapi sebaiknya tidak dibawa ke tempat yang terlalu ramai.
+    </string>
+    <string name="faktaBBL_2">Kaki bengkok karena kelainan bawaan tidak akan bisa diperbaiki dengan membedong. Bayi
+        boleh saja dibedong asal tidak terlalu kencang.
+    </string>
+    <string name="faktaBBL_3">Gurita tidak memberikan pengaruh pada perut buncit. Pada bayi pernapasan perut lebih
+        dominan sehingga pemakaian gurita justru dapat mengganggu pernapasan.
+    </string>
+    <string name="faktaBBL_4">Bayi boleh dipakaikan kaus kaki dan sarung tangan tetapi tidak secara terus-menerus agar
+        indera peraba pada kaki dan tangan tetap berkembang.
+    </string>
+    <string name="faktaBBL_5">Mancung atau tidaknya dipengaruhi oleh tulang hidung yang tidak bisa diubah dengan
+        menarik-nariknya.
+    </string>
+    <string name="faktaBBL_6">Kuku bayi harus dipotong, kuku yang terlalu panjang dapat menjadi sumber kuman dan
+        berpotensi menciderai dirinya sendiri
+    </string>
+    <string name="faktaBBL_7">Sampai usia 6 bulan, bayi hanya boleh diberi ASI saja, memberikan makanan terlalu dini
+        pada bayi dapat menciderai saluran cerna, bahkan berisiko menyebabkan kematian pada bayi.
+    </string>
+    <string name="faktaBBL_8">Mengorok dan juga cegukan akan sering dialami bayi sampai usia 2-3 bulan. Salah satu
+        penyebabnya adalah produksi air liur yang lebih banyak.
+    </string>
+    <string name="faktaBBL_9">Pada saat dilahirkan, tangisan akan membantu membuka paru-paru dan jalan napas, tetapi
+        tidak setelahnya. Apabila bayi menangis, sebaiknya segera direspon dan dicari tahu penyebabnya. Hal tersebut
+        bukan berarti memanjakan, tetapi lebih kepada memberikan rasa aman dan itu cukup berarti untuk perkembangan
+        bayi.
+    </string>
+    <string name="faktaBBL_10">Bahan-bahan dalam vaksin termasuk timerosal dan alumunium merupakan bahan yang aman
+        sehingga tidak ada alas an bagi bayi untuk tidak divaksinasi. Vaksinasi memberikan kekebalan terhadap penyakit.
+    </string>
+    <string name="faktaBBL_11">Menggunting bulu mata tidak mempengaruhi pertumbuhannya menjadi lebih panjang.
+        Menggunting bulu mata dapat meningkatkan risiko cidera dan menurunkan fungsinya dalam melindungi mata.
+    </string>
+    <string name="faktaBBL_12">Cabai merah atau bawang merah dapat mengiritasi kulit bayi yang sangat sensitif.
+        Sejatinya lesung pipi dapat terbentuk karena kecacatan otot pipi yang ukurannya lebih pendek daripada normal.
+    </string>
+</resources>
