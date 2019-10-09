@@ -24,9 +24,9 @@ class DescKebersihanDiri : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Langkah pertama", resources.getString(R.string.kebersihan_pertama), null, "testgambar.jpg"),
-            RuleContent("Langkah kedua", resources.getString(R.string.kebersihan_kedua), null, "testgambar.jpg"),
-            RuleContent("Langkah ketiga", resources.getString(R.string.kebersihan_ketiga), null, "testgambar.jpg")
+            RuleContent("pertama", resources.getString(R.string.kebersihan_pertama), null, "kebersihan_1.png"),
+            RuleContent("kedua", resources.getString(R.string.kebersihan_kedua), null, "kebersihan_2.png"),
+            RuleContent("ketiga", resources.getString(R.string.kebersihan_ketiga), null, "kebersihan_3.png")
         )
 
         rule_list.apply {

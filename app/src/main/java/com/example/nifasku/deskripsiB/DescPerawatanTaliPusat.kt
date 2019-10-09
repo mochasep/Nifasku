@@ -23,11 +23,11 @@ class DescPerawatanTaliPusat : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.tali_pusat_pertama), null, "testgambar.jpg"),
-            RuleContent("kedua", resources.getString(R.string.tali_pusat_kedua), null, "testgambar.jpg"),
-            RuleContent("ketiga", resources.getString(R.string.tali_pusat_ketiga), null, "testgambar.jpg"),
-            RuleContent("keempat", resources.getString(R.string.tali_pusat_keempat), null, "testgambar.jpg"),
-            RuleContent("kelima", resources.getString(R.string.tali_pusat_kelima), null, "testgambar.jpg")
+            RuleContent("pertama", resources.getString(R.string.tali_pusat_pertama), null, "tali_pusar_1.png"),
+            RuleContent("kedua", resources.getString(R.string.tali_pusat_kedua), null, "tali_pusar_2.png"),
+            RuleContent("ketiga", resources.getString(R.string.tali_pusat_ketiga), null, "tali_pusar_3.png"),
+            RuleContent("keempat", resources.getString(R.string.tali_pusat_keempat), null, "tali_pusar_4.png"),
+            RuleContent("kelima", resources.getString(R.string.tali_pusat_kelima), null, "tali_pusar_5.png")
         )
 
         rule_list.apply {

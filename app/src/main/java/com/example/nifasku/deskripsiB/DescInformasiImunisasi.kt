@@ -25,13 +25,7 @@ class DescInformasiImunisasi : AppCompatActivity(), OnClickRuleListener {
         val ruleData = arrayListOf(
             RuleContent("Imunisasi", resources.getString(R.string.info_pengertian), null, null),
             RuleContent("Tujuan Imunisasi", resources.getString(R.string.info_tujuan), null, null),
-            RuleContent("Usia 0-7 hari", resources.getString(R.string.info_jadwal_vaksin2), null, null),
-            RuleContent("Usia 1 bulan", resources.getString(R.string.info_jadwal_vaksin3), null, null),
-            RuleContent("Usia 2 bulan", resources.getString(R.string.info_jadwal_vaksin4), null, null),
-            RuleContent("Usia 3 bulan", resources.getString(R.string.info_jadwal_vaksin5), null, null),
-            RuleContent("Usia 4 bulan", resources.getString(R.string.info_jadwal_vaksin6), null, null),
-            RuleContent("Usia 9 bulan", resources.getString(R.string.info_jadwal_vaksin7), null, null)
-
+            RuleContent("Informasi imunisasi dasar bayi", null, null, "info_imunisasi.PNG")
         )
 
         rule_list.apply {

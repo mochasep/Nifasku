@@ -23,8 +23,8 @@ class DescIstirahat : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Langkah pertama", resources.getString(R.string.istirahat_pertama), null, "testgambar.jpg"),
-            RuleContent("Langkah kedua", resources.getString(R.string.istirahat_kedua), null, "testgambar.jpg")
+            RuleContent("pertama", resources.getString(R.string.istirahat_pertama), null, "istirahat_1.png"),
+            RuleContent("kedua", resources.getString(R.string.istirahat_kedua), null, "istirahat_2.png")
         )
 
         rule_list.apply {

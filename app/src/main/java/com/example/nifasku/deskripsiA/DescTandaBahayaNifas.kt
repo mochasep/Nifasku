@@ -23,12 +23,12 @@ class DescTandaBahayaNifas : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Langkah pertama", resources.getString(R.string.tanda_bahaya_pertama), null, "testgambar.jpg"),
-            RuleContent("Langkah kedua", resources.getString(R.string.tanda_bahaya_kedua), null, "testgambar.jpg"),
-            RuleContent("Langkah ketiga", resources.getString(R.string.tanda_bahaya_ketiga), null, "testgambar.jpg"),
-            RuleContent("Langkah keempat", resources.getString(R.string.tanda_bahaya_keempat), null, "testgambar.jpg"),
-            RuleContent("Langkah kelima", resources.getString(R.string.tanda_bahaya_kelima), null, "testgambar.jpg"),
-            RuleContent("Langkah keenam", resources.getString(R.string.tanda_bahaya_keenam), null, "testgambar.jpg")
+            RuleContent("pertama", null, null, "bahaya_nifas_1.PNG"),
+            RuleContent("kedua", null, null, "bahaya_nifas_2.PNG"),
+            RuleContent("ketiga", null, null, "bahaya_nifas_3.PNG"),
+            RuleContent("keempat", null, null, "bahaya_nifas_4.PNG"),
+            RuleContent("kelima", null, null, "bahaya_nifas_5.PNG"),
+            RuleContent("keenam", null, null, "bahaya_nifas_6.PNG")
         )
 
         rule_list.apply {

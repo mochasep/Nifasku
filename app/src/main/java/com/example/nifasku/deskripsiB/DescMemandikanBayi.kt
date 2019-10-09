@@ -23,26 +23,26 @@ class DescMemandikanBayi : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.memandikan_bayi_pertama), null,"testgambar.jpg"),
-            RuleContent("kedua", resources.getString(R.string.memandikan_bayi_kedua), null,"testgambar.jpg"),
-            RuleContent("ketiga", resources.getString(R.string.memandikan_bayi_ketiga), null,"testgambar.jpg"),
-            RuleContent("keempat", resources.getString(R.string.memandikan_bayi_keempat), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kelima), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keenam), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketujuh), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kedelapan), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesembilan), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesepuluh), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesebelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keduabelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketigabelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keempatbelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kelimabelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keenambelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketujuhbelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kedelapanbelas), null,"testgambar.jpg"),
-            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesembilanbelas), null,"testgambar.jpg"),
-            RuleContent("terakhir", resources.getString(R.string.memandikan_bayi_keduapuluh), null,"testgambar.jpg")
+            RuleContent("pertama", resources.getString(R.string.memandikan_bayi_pertama), null,"memandikan_1.png"),
+            RuleContent("kedua", resources.getString(R.string.memandikan_bayi_kedua), null,"memandikan_2.png"),
+            RuleContent("ketiga", resources.getString(R.string.memandikan_bayi_ketiga), null,"memandikan_3.png"),
+            RuleContent("keempat", resources.getString(R.string.memandikan_bayi_keempat), null,"memandikan_4.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kelima), null,"memandikan_5.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keenam), null,"memandikan_6.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketujuh), null,"memandikan_7.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kedelapan), null,"memandikan_8.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesembilan), null,"memandikan_9.PNG"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesepuluh), null,"memandikan_10.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesebelas), null,"memandikan_11.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keduabelas), null,"memandikan_12.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketigabelas), null,"memandikan_13.PNG"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keempatbelas), null,"memandikan_14.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kelimabelas), null,"memandikan_15.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_keenambelas), null,"memandikan_16.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_ketujuhbelas), null,"memandikan_17.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kedelapanbelas), null,"memandikan_18.png"),
+            RuleContent("selanjutnya", resources.getString(R.string.memandikan_bayi_kesembilanbelas), null,"memandikan_19.png"),
+            RuleContent("terakhir", resources.getString(R.string.memandikan_bayi_keduapuluh), null,"memandikan_20.png")
         )
 
         rule_list.apply {

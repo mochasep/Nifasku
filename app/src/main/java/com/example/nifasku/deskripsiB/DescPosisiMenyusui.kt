@@ -24,14 +24,14 @@ class DescPosisiMenyusui : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.posisi_menyusui_pertama), null, "testgambar.jpg"),
-            RuleContent("kedua", resources.getString(R.string.posisi_menyusui_kedua), null, "testgambar.jpg"),
-            RuleContent("ketiga", resources.getString(R.string.posisi_menyusui_ketiga), null, "testgambar.jpg"),
-            RuleContent("keempat", resources.getString(R.string.posisi_menyusui_keempat), null, "testgambar.jpg"),
-            RuleContent("kelima", resources.getString(R.string.posisi_menyusui_kelima), null, "testgambar.jpg"),
-            RuleContent("keenam", resources.getString(R.string.posisi_menyusui_keenam), null, "testgambar.jpg"),
-            RuleContent("ketujuh", resources.getString(R.string.posisi_menyusui_ketujuh), null, "testgambar.jpg"),
-            RuleContent("kedelapan", resources.getString(R.string.posisi_menyusui_kedelapan), null, "testgambar.jpg")
+            RuleContent("pertama", resources.getString(R.string.posisi_menyusui_pertama), null, "menyusui_1.png"),
+            RuleContent("kedua", resources.getString(R.string.posisi_menyusui_kedua), null, "menyusui_2.png"),
+            RuleContent("ketiga", resources.getString(R.string.posisi_menyusui_ketiga), null, "menyusui_3.png"),
+            RuleContent("keempat", resources.getString(R.string.posisi_menyusui_keempat), null, "menyusui_4.png"),
+            RuleContent("kelima", resources.getString(R.string.posisi_menyusui_kelima), null, "menyusui_5.png"),
+            RuleContent("keenam", resources.getString(R.string.posisi_menyusui_keenam), null, "menyusui_6.png"),
+            RuleContent("ketujuh", resources.getString(R.string.posisi_menyusui_ketujuh), null, "menyusui_7.PNG"),
+            RuleContent("kedelapan", resources.getString(R.string.posisi_menyusui_kedelapan), null, "menyusui_8.png")
         )
 
         rule_list.apply {

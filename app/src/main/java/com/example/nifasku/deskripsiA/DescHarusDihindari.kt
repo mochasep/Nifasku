@@ -24,10 +24,10 @@ class DescHarusDihindari : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Hal pertama", resources.getString(R.string.harus_dihindari_pertama), null, "testgambar.jpg"),
-            RuleContent("Hal kedua", resources.getString(R.string.harus_dihindari_kedua), null, "testgambar.jpg"),
-            RuleContent("Hal ketiga", resources.getString(R.string.harus_dihindari_ketiga), null, "testgambar.jpg"),
-            RuleContent("Hal keempat", resources.getString(R.string.harus_dihindari_keempat), null, "testgambar.jpg")
+            RuleContent("Hal pertama", resources.getString(R.string.harus_dihindari_pertama), null, "dihindar_1.png"),
+            RuleContent("Hal kedua", resources.getString(R.string.harus_dihindari_kedua), null, "dihindar_2.png"),
+            RuleContent("Hal ketiga", resources.getString(R.string.harus_dihindari_ketiga), null, "dihindar_3.png"),
+            RuleContent("Hal keempat", resources.getString(R.string.harus_dihindari_keempat), null, "dihindar_4.png")
         )
 
         rule_list.apply {

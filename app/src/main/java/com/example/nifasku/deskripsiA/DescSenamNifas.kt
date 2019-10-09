@@ -23,16 +23,16 @@ class DescSenamNifas : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Persiapan", resources.getString(R.string.senam_1), null, "testgambar.jpg"),
-            RuleContent("Langkah Kegiatan", resources.getString(R.string.senam_2), null, "testgambar.jpg"),
-            RuleContent("Gerakan Pergelangan Kaki", resources.getString(R.string.senam_3), null, "testgambar.jpg"),
-            RuleContent("Latihan kontraksi ringan otot perut dan otot bokong", resources.getString(R.string.senam_4), null, "testgambar.jpg"),
-            RuleContent("Latihan otot perut", resources.getString(R.string.senam_5), null, "testgambar.jpg"),
-            RuleContent("Latihan kaki", resources.getString(R.string.senam_6), null, "testgambar.jpg"),
-            RuleContent("Latihan untuk mengembalikan Rahim pada posisi semula", resources.getString(R.string.senam_7), null, "testgambar.jpg"),
-            RuleContent("Latihan untuk menguatkan otot dada", resources.getString(R.string.senam_8), null, "testgambar.jpg"),
-            RuleContent("Latihan menguatkan otot perut", resources.getString(R.string.senam_9), null, "testgambar.jpg"),
-            RuleContent("Latihan mempertahankan sikap baik", resources.getString(R.string.senam_10), null, "testgambar.jpg")
+            RuleContent("Persiapan", resources.getString(R.string.senam_1), null, "senam_1.png"),
+            RuleContent("Langkah Kegiatan", resources.getString(R.string.senam_2), null, "senam_2.png"),
+            RuleContent("Gerakan Pergelangan Kaki", resources.getString(R.string.senam_3), null, "senam_3.PNG"),
+            RuleContent("Latihan kontraksi ringan otot perut dan otot bokong", resources.getString(R.string.senam_4), null, "senam_4.png"),
+            RuleContent("Latihan otot perut", resources.getString(R.string.senam_5), null, "senam_5.png"),
+            RuleContent("Latihan kaki", resources.getString(R.string.senam_6), null, "senam_6.PNG"),
+            RuleContent("Latihan untuk mengembalikan Rahim pada posisi semula", resources.getString(R.string.senam_7), null, "senam_7.png"),
+            RuleContent("Latihan untuk menguatkan otot dada", resources.getString(R.string.senam_8), null, "senam_8.PNG"),
+            RuleContent("Latihan menguatkan otot perut", resources.getString(R.string.senam_9), null, "senam_9.PNG"),
+            RuleContent("Latihan mempertahankan sikap baik", resources.getString(R.string.senam_10), null, "senam_10.PNG")
         )
 
         rule_list.apply {
