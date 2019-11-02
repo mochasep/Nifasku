@@ -24,17 +24,17 @@ class DescMengatasiIbuNifas : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.mengatasi_pertama), null, null),
-            RuleContent("kedua", resources.getString(R.string.mengatasi_kedua), null, null),
-            RuleContent("ketiga", resources.getString(R.string.mengatasi_ketiga), null, null),
-            RuleContent("keempat", resources.getString(R.string.mengatasi_keempat), null, null),
-            RuleContent("kelima", resources.getString(R.string.mengatasi_kelima), null, null),
-            RuleContent("keenam", resources.getString(R.string.mengatasi_keenam), null, null),
-            RuleContent("ketujuh", resources.getString(R.string.mengatasi_ketujuh), null, null),
-            RuleContent("kedelapan", resources.getString(R.string.mengatasi_kedelapan), null, null),
-            RuleContent("kesembilan", resources.getString(R.string.mengatasi_kesembilan), null, null),
-            RuleContent("kesepuluh", resources.getString(R.string.mengatasi_kesepuluh), null, null),
-            RuleContent("kesebelas", resources.getString(R.string.mengatasi_kesebelas), null, null)
+            RuleContent("", resources.getString(R.string.mengatasi_pertama), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kedua), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_ketiga), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_keempat), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kelima), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_keenam), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_ketujuh), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kedelapan), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kesembilan), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kesepuluh), null, null),
+            RuleContent("", resources.getString(R.string.mengatasi_kesebelas), null, null)
         )
 
         rule_list.apply {

@@ -24,8 +24,8 @@ class DescPemberianAsi : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.pemberian_asi_pertama),null ,null),
-            RuleContent("kedua", resources.getString(R.string.pemberian_asi_kedua),null ,null)
+            RuleContent("", resources.getString(R.string.pemberian_asi_pertama),null ,null),
+            RuleContent("", resources.getString(R.string.pemberian_asi_kedua),null ,null)
 
         )
 

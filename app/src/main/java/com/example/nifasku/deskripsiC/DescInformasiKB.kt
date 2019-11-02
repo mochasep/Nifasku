@@ -24,11 +24,11 @@ class DescInformasiKB : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("Pil KB", resources.getString(R.string.kb_pertama),null ,null),
-            RuleContent("IUD Intrauterine Device", resources.getString(R.string.kb_kedua),null ,null),
-            RuleContent("Implan", resources.getString(R.string.kb_ketiga),null ,null),
-            RuleContent("Suntikan Depo Provera Cara", resources.getString(R.string.kb_keempat),null ,null),
-            RuleContent("Metode Penghalang", resources.getString(R.string.kb_kelima),null ,null),
+            RuleContent("Pil KB", resources.getString(R.string.kb_pertama),null ,"minipil.png"),
+            RuleContent("IUD Intrauterine Device", resources.getString(R.string.kb_kedua),null ,"iud.png"),
+            RuleContent("Implan", resources.getString(R.string.kb_ketiga),null ,"implan.png"),
+            RuleContent("Suntikan Depo Provera Cara", resources.getString(R.string.kb_keempat),null ,"suntikan.png"),
+            RuleContent("Metode Penghalang", resources.getString(R.string.kb_kelima),null ,"kondom.png"),
             RuleContent("Bagaimana Cara Mencegah Kehamilan ?", resources.getString(R.string.kb_keenam),null ,null)
         )
 

@@ -23,17 +23,18 @@ class DescTandaBahayaBBL : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.tanda_bahaya_bbl_pertama), null, null),
-            RuleContent("kedua", resources.getString(R.string.tanda_bahaya_bbl_kedua), null, null),
-            RuleContent("ketiga", resources.getString(R.string.tanda_bahaya_bbl_ketiga), null, null),
-            RuleContent("keempat", resources.getString(R.string.tanda_bahaya_bbl_keempat), null, null),
-            RuleContent("kelima", resources.getString(R.string.tanda_bahaya_bbl_kelima), null, null),
-            RuleContent("keenam", resources.getString(R.string.tanda_bahaya_bbl_keenam), null, null),
-            RuleContent("ketujuh", resources.getString(R.string.tanda_bahaya_bbl_ketujuh), null, null),
-            RuleContent("kedelapan", resources.getString(R.string.tanda_bahaya_bbl_kedelapan), null, null),
-            RuleContent("kesembilan", resources.getString(R.string.tanda_bahaya_bbl_kesembilan), null, null),
-            RuleContent("kesepuluh", resources.getString(R.string.tanda_bahaya_bbl_kesepuluh), null, null),
-            RuleContent("kesebelas", resources.getString(R.string.tanda_bahaya_bbl_kesebelas), null, null)
+            RuleContent("", null, null, "tanda_bahaya_bbl.png")
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_pertama), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kedua), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_ketiga), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_keempat), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kelima), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_keenam), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_ketujuh), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kedelapan), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kesembilan), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kesepuluh), null, null),
+//            RuleContent("", resources.getString(R.string.tanda_bahaya_bbl_kesebelas), null, null)
         )
 
         rule_list.apply {

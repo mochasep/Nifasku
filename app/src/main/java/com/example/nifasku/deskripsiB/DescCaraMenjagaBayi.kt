@@ -24,11 +24,11 @@ class DescCaraMenjagaBayi : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.cara_menjaga_bayi_pertama), null, null),
-            RuleContent("kedua", resources.getString(R.string.cara_menjaga_bayi_kedua), null, null),
-            RuleContent("ketiga", resources.getString(R.string.cara_menjaga_bayi_ketiga), null, null),
-            RuleContent("keempat", resources.getString(R.string.cara_menjaga_bayi_keempat), null, null),
-            RuleContent("kelima", resources.getString(R.string.cara_menjaga_bayi_kelima), null, null)
+            RuleContent("", resources.getString(R.string.cara_menjaga_bayi_pertama), null, null),
+            RuleContent("", resources.getString(R.string.cara_menjaga_bayi_kedua), null, null),
+            RuleContent("", resources.getString(R.string.cara_menjaga_bayi_ketiga), null, null),
+            RuleContent("", resources.getString(R.string.cara_menjaga_bayi_keempat), null, null),
+            RuleContent("", resources.getString(R.string.cara_menjaga_bayi_kelima), null, null)
         )
 
         rule_list.apply {

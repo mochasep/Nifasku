@@ -24,12 +24,12 @@ class DescNutrisi : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.nutrisi_pertama), null, "nutrisi_1.png"),
-            RuleContent("kedua", resources.getString(R.string.nutrisi_kedua), null, "nutrisi_2.png"),
-            RuleContent("ketiga", resources.getString(R.string.nutrisi_ketiga), null, "nutrisi_3.png"),
-            RuleContent("keempat", resources.getString(R.string.nutrisi_keempat), null, "nutrisi_4.png"),
-            RuleContent("kelima", resources.getString(R.string.nutrisi_kelima), null, "nutrisi_5.png"),
-            RuleContent("keenam", resources.getString(R.string.nutrisi_keenam), null, "nutrisi_6.png")
+            RuleContent("", resources.getString(R.string.nutrisi_pertama), null, "nutrisi_1.png"),
+            RuleContent("", resources.getString(R.string.nutrisi_kedua), null, "nutrisi_2.png"),
+            RuleContent("", resources.getString(R.string.nutrisi_ketiga), null, "nutrisi_3.png"),
+            RuleContent("", resources.getString(R.string.nutrisi_keempat), null, "nutrisi_4.png"),
+            RuleContent("", resources.getString(R.string.nutrisi_kelima), null, "nutrisi_5.png"),
+            RuleContent("", resources.getString(R.string.nutrisi_keenam), null, "nutrisi_6.png")
         )
 
         rule_list.apply {

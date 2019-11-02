@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -32,7 +33,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_1_24dp"/>
+                    android:src="@drawable/b1"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -80,7 +81,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_2_24dp"/>
+                    android:src="@drawable/b2"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -130,7 +131,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_3_24dp"/>
+                    android:src="@drawable/b3"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -178,7 +179,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_4_24dp"/>
+                    android:src="@drawable/b4"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -225,7 +226,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_5_24dp"/>
+                    android:src="@drawable/b5"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -272,7 +273,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_6_24dp"/>
+                    android:src="@drawable/b6"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -318,13 +319,13 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_7_24dp"/>
+                    android:src="@drawable/b7"/>
 
             <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="left"
-                    android:text="Perawatan Tali Pusar"
+                    android:text="Perawatan Tali Pusat"
                     android:textSize="20sp"
                     android:textStyle="bold"/>
 
@@ -364,7 +365,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_8_24dp"/>
+                    android:src="@drawable/b8"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -410,7 +411,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_9_24dp"/>
+                    android:src="@drawable/b9"/>
 
             <TextView
                     android:layout_width="match_parent"

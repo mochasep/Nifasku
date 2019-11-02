@@ -33,13 +33,13 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_1_24dp"/>
+                    android:src="@drawable/a1"/>
 
             <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="left"
-                    android:text="Mobilisasi Diri"
+                    android:text="Mobilisasi Dini"
                     android:textSize="20sp"
                     android:textStyle="bold"/>
 
@@ -81,7 +81,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_2_24dp"/>
+                    android:src="@drawable/a2"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -131,7 +131,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_3_24dp"/>
+                    android:src="@drawable/a3"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -179,7 +179,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_4_24dp"/>
+                    android:src="@drawable/a4"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -226,7 +226,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_5_24dp"/>
+                    android:src="@drawable/a5"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -273,7 +273,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_6_24dp"/>
+                    android:src="@drawable/a6"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -319,7 +319,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_7_24dp"/>
+                    android:src="@drawable/a7"/>
 
             <TextView
                     android:layout_width="match_parent"
@@ -365,7 +365,7 @@
                     android:layout_height="70dp"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:src="@drawable/ic_filter_8_24dp"/>
+                    android:src="@drawable/a8"/>
 
             <TextView
                     android:layout_width="match_parent"

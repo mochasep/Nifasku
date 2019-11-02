@@ -25,9 +25,9 @@ class DescMobilisasiDini : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.mobilisasi_pertama), null, "mobilisasi_1.PNG"),
-            RuleContent("kedua", resources.getString(R.string.mobilisasi_kedua), null, "mobilisasi_2.PNG"),
-            RuleContent("ketiga", resources.getString(R.string.mobilisasi_ketiga), null, "mobilisasi_3.PNG")
+            RuleContent("", resources.getString(R.string.mobilisasi_pertama), null, "mobilisasi_1.PNG"),
+            RuleContent("", resources.getString(R.string.mobilisasi_kedua), null, "mobilisasi_2.PNG"),
+            RuleContent("", resources.getString(R.string.mobilisasi_ketiga), null, "mobilisasi_3.PNG")
         )
 
         rule_list.apply {

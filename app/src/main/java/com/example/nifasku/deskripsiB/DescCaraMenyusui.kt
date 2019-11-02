@@ -24,10 +24,10 @@ class DescCaraMenyusui : AppCompatActivity(), OnClickRuleListener{
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.cara_menyusui_pertama), null, null),
-            RuleContent("kedua", resources.getString(R.string.cara_menyusui_kedua), null, null),
-            RuleContent("ketiga", resources.getString(R.string.cara_menyusui_ketiga), null, null),
-            RuleContent("keempat", resources.getString(R.string.cara_menyusui_keempat), null, null)
+            RuleContent("", resources.getString(R.string.cara_menyusui_pertama), null, null),
+            RuleContent("", resources.getString(R.string.cara_menyusui_kedua), null, null),
+            RuleContent("", resources.getString(R.string.cara_menyusui_ketiga), null, null),
+            RuleContent("", resources.getString(R.string.cara_menyusui_keempat), null, null)
         )
 
         rule_list.apply {

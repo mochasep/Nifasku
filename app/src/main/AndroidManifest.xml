@@ -4,10 +4,12 @@
 
     <application
             android:allowBackup="false"
-            android:icon="@drawable/logo"
+            android:icon="@drawable/busui"
             android:label="@string/app_name"
             android:supportsRtl="false"
             android:theme="@style/AppTheme">
+        <activity android:name=".TanyaBidanActivity">
+        </activity>
         <activity android:name=".MitosDanFaktaActivity">
         </activity>
         <activity android:name=".deskripsiD.DescBayiBaruLahir">

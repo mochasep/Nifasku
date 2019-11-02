@@ -23,18 +23,19 @@ class DescBayiBaruLahir : AppCompatActivity(), OnClickRuleListener {
 
     private fun setComponentListener() {
         val ruleData = arrayListOf(
-            RuleContent("pertama", resources.getString(R.string.mitosBBL_1), resources.getString(R.string.faktaBBL_1), null),
-            RuleContent("kedua", resources.getString(R.string.mitosBBL_2), resources.getString(R.string.faktaBBL_2), null),
-            RuleContent("ketiga", resources.getString(R.string.mitosBBL_3), resources.getString(R.string.faktaBBL_3), null),
-            RuleContent("keempat", resources.getString(R.string.mitosBBL_4), resources.getString(R.string.faktaBBL_4), null),
-            RuleContent("kelima", resources.getString(R.string.mitosBBL_5), resources.getString(R.string.faktaBBL_5), null),
-            RuleContent("keenam", resources.getString(R.string.mitosBBL_6), resources.getString(R.string.faktaBBL_6), null),
-            RuleContent("ketujuh", resources.getString(R.string.mitosBBL_7), resources.getString(R.string.faktaBBL_7), null),
-            RuleContent("kedelapan", resources.getString(R.string.mitosBBL_8), resources.getString(R.string.faktaBBL_8), null),
-            RuleContent("kesembilan", resources.getString(R.string.mitosBBL_9), resources.getString(R.string.faktaBBL_9), null),
-            RuleContent("kesepuluh", resources.getString(R.string.mitosBBL_10), resources.getString(R.string.faktaBBL_10), null),
-            RuleContent("kesebelas", resources.getString(R.string.mitosBBL_11), resources.getString(R.string.faktaBBL_11), null),
-            RuleContent("keduabelas", resources.getString(R.string.mitosBBL_12), resources.getString(R.string.faktaBBL_12), null)
+            RuleContent("", "MITOS", "FAKTA", null),
+            RuleContent("", resources.getString(R.string.mitosBBL_1), resources.getString(R.string.faktaBBL_1), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_2), resources.getString(R.string.faktaBBL_2), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_3), resources.getString(R.string.faktaBBL_3), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_4), resources.getString(R.string.faktaBBL_4), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_5), resources.getString(R.string.faktaBBL_5), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_6), resources.getString(R.string.faktaBBL_6), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_7), resources.getString(R.string.faktaBBL_7), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_8), resources.getString(R.string.faktaBBL_8), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_9), resources.getString(R.string.faktaBBL_9), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_10), resources.getString(R.string.faktaBBL_10), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_11), resources.getString(R.string.faktaBBL_11), null),
+            RuleContent("", resources.getString(R.string.mitosBBL_12), resources.getString(R.string.faktaBBL_12), null)
         )
 
         rule_list.apply {

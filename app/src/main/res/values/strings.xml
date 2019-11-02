@@ -6,18 +6,16 @@
     <string name="mobilisasi_kedua">Memiringkan tubuh ke kanan dan ke kiri</string>
     <string name="mobilisasi_ketiga">Duduk, hingga bangun dari tempat yang dilakukan oleh ibu nifas</string>
 
-    <string name="nutrisi_pertama">Makan makanan yang beranekaragam yang mengandung karbohidrat(nasi, roti, gandum),
-        protein hewani(daging, ikan, telur, susu), protein nabati(tempe, tahu, sayuran, dan buah-buahan).
+    <string name="nutrisi_pertama">Makan makanan yang beranekaragam yang mengandung karbohidrat (nasi, roti, gandum),
+        protein hewani (daging, ikan, telur, susu), protein nabati (tempe, tahu, sayuran, dan buah-buahan).
     </string>
     <string name="nutrisi_kedua">Mengkonsumsi tambahan kalori tiap hari sebanyak 500 kalori</string>
     <string name="nutrisi_ketiga">Makan dengan diet berimbang, cukup protein, mineral dan vitamin</string>
     <string name="nutrisi_keempat">Minum sedikitnya 3 liter setiap hari, terutama setelah menyusui</string>
-    <string name="nutrisi_kelima">Mengkonsumsi tablet zat besi selama masa nifas</string>
-    <string name="nutrisi_keenam">Minum kapsul Vitamin A(200.000 unit) agar dapat memberkikan vitamin A kepada bayi nya
-        melalui ASi
-    </string>
+    <string name="nutrisi_kelima">Mengkonsumsi tablet zat besi selama masa nifas yang di berikan oleh bidan/ tenaga kesehatan</string>
+    <string name="nutrisi_keenam">Minum kapsul vitamin A yang di berikan oleh bidan , agar dapat memberikan vitamin A kepada bayinya melalui ASI.</string>
 
-    <string name="kebersihan_pertama">Membersihkan alat kelamin dari depan ke beakang</string>
+    <string name="kebersihan_pertama">Membersihkan alat kelamin dari arah depan ke belakang</string>
     <string name="kebersihan_kedua">Mengganti pembalut sesering mungkin terutama apabila sudah terasa penuh</string>
     <string name="kebersihan_ketiga">Cuci tangan sebelum dan sesudah membersihkan daerah kelamin</string>
 
@@ -48,8 +46,9 @@
         <b>Persiapan:</b>\n
         a. Pastikan ibu nifas dalam kondisi baik dan rileks\n
         b. Jelaskan tentang manfaat dari senam nifas\n
-        b. Pastikan ibu nifas telah mengosongkan kandung kemih</string>
-    <string name="senam_2"> <b>Langkah kegiatan :</b>\n
+        b. Pastikan ibu nifas telah mengosongkan kandung kemih
+    </string>
+    <string name="senam_2"><b>Langkah kegiatan :</b>\n
         <b>Latihan hari ke-1</b>\n
         Pernapasan iga
         \n
@@ -62,20 +61,24 @@
         c. Tahan 3-5 detik lalu istirahat\n
         b. Lakukan latihan ini sebanyak 15 kali, pagi dan sore
     </string>
-    <string name="senam_3"><b>Gerakan pergelangan kaki</b>
+    <string name="senam_3">
+        <b>Gerakan pergelangan kaki</b>
         \n
         <b>Sikap :</b>\n
         Tidur terlentang dengan satu bantal dengan kedua lutut tetap lurus\n
 
         <b>Gerakan :</b>\n
         a. Kaki diputar kearah luar dan kearah dalam
-        b. Lakukan sebanyak lima kali dalam setiap latihan </string>
+        b. Lakukan sebanyak lima kali dalam setiap latihan
+    </string>
     <string name="senam_4"><b>Latihan kontraksi ringan otot perut dan otot bokong</b>\n
         <b>Sikap :</b>\n
         Tidur terlentang dengan satu bantal dengan kedua lutut tetap lurus dan kedua tangan disamping\n
         <b>Gerakan :</b>\n
-        a. Tundukkan kepala, kerutkan pantat kedalam sehingga lepas dari kasur, lepaskan perut sehingga punggung menekan kasur kemudian lepaskan perlahan-lahan\n
-        b. Lakukan 15 kali gerakan pagi dan sore setiap 5 kali gerakan berhenti</string>
+        a. Tundukkan kepala, kerutkan pantat kedalam sehingga lepas dari kasur, lepaskan perut sehingga punggung menekan
+        kasur kemudian lepaskan perlahan-lahan\n
+        b. Lakukan 15 kali gerakan pagi dan sore setiap 5 kali gerakan berhenti
+    </string>
     <string name="senam_5"><b>Latihan hari ke-2</b>\n
         <b>Latihan otot perut</b>\n
 
@@ -84,37 +87,50 @@
 
         <b>Gerakan :</b>\n
         a. Angkat kepala sehingga dagu menyentuh dada lalu perlahan-lahan kembali lakukan gerakan ini 5 kali gerakan.\n
-        b. Bengkokan lutut kiri setengah tinggi lalu luruskan kemudian ganti kaki kanan. Lakukan 5 kali gerakan untuk setiap kaki bergantian </string>
+        b. Bengkokan lutut kiri setengah tinggi lalu luruskan kemudian ganti kaki kanan. Lakukan 5 kali gerakan untuk
+        setiap kaki bergantian
+    </string>
     <string name="senam_6"><b>Latihan kaki</b>\n
         <b>Sikap :</b>\n
-        Tidur terlentang dengan satu bantal di kepala kedua lutut dibengkokan setengah tinggi pada menempel satu sama lain\n
+        Tidur terlentang dengan satu bantal di kepala kedua lutut dibengkokan setengah tinggi pada menempel satu sama
+        lain\n
         <b>Gerakan :</b>\n
-        Kedua lutut dibawah atau direbahkan kesamping kiri setengah rendah. Bahu tetap pada kasur kembali. Lalu ketengah dan dibawa kembali ke kanan. Lakukan 5 kali gerakan untuk masing-masing sisi
+        Kedua lutut dibawah atau direbahkan kesamping kiri setengah rendah. Bahu tetap pada kasur kembali. Lalu ketengah
+        dan dibawa kembali ke kanan. Lakukan 5 kali gerakan untuk masing-masing sisi
     </string>
     <string name="senam_7"><b>Latihan untuk mengembalikan Rahim pada posisi semula</b>\n
         <b>Sikap :</b>\n
-        Tidur tengkurap dengan kedua bantal menyangga perut bagian bawah satu bantal kecil menyangga punggung kaki, kepala menoleh kekiri atau kekanan, tangan diletakkan dibawah bantal dengan siku sedikit dibengkokkan.\n
+        Tidur tengkurap dengan kedua bantal menyangga perut bagian bawah satu bantal kecil menyangga punggung kaki,
+        kepala menoleh kekiri atau kekanan, tangan diletakkan dibawah bantal dengan siku sedikit dibengkokkan.\n
         <b>Gerakan :</b>\n
-        Sikap ini dipertahankan selama 5 menit untuk setiap sisi kepala, lama kelamaan sampai 20 menit, dan gerakan ini dilakukan terus sampai ibu merasa tidak malas lagi </string>
+        Sikap ini dipertahankan selama 5 menit untuk setiap sisi kepala, lama kelamaan sampai 20 menit, dan gerakan ini
+        dilakukan terus sampai ibu merasa tidak malas lagi
+    </string>
     <string name="senam_8"><b>Latihan untuk menguatkan otot dada</b>\n
         <b>Sikap :</b>\n
         Duduk atau berdiri dengan kedua tangan saling berpegangan pada lengan bawah dekat siku\n
         Badan lengan atas membentuk sudut 90°.\n
         <b>Gerakan :</b>\n
-        Kedua tangan mendorong lengan kearah siku tanpa menggeser telapak tangan sampai otot dada terasa tertarik kemudian lepaskan, lakukan gerakan ini sampai 45 kali setiap 15 kali berhenti sebentar untuk istirahat.</string>
+        Kedua tangan mendorong lengan kearah siku tanpa menggeser telapak tangan sampai otot dada terasa tertarik
+        kemudian lepaskan, lakukan gerakan ini sampai 45 kali setiap 15 kali berhenti sebentar untuk istirahat.
+    </string>
     <string name="senam_9"><b>Latihan hari ke-3</b>\n
         <b>Latihan menguatkan otot perut</b>\n
         <b>Sikap :</b>\n
         Tidur terlentang dengan kedua lutut lurus\n
         <b>Gerakan :</b>\n
-        Ayunkan kedua lengan kedepan atas sambil mengangkat kepala dan bahu sampai setengah duduk lalu kembali perlahan-lahan. Lakukan 5 kali gerakan </string>
+        Ayunkan kedua lengan kedepan atas sambil mengangkat kepala dan bahu sampai setengah duduk lalu kembali
+        perlahan-lahan. Lakukan 5 kali gerakan
+    </string>
     <string name="senam_10"><b>Latihan mempertahankan sikap baik</b>\n
         <b>Sikap :</b>\n
         Duduk dipinggir tempat tidur atau berdiri dilantai dengan kedua tangan diletakkan diatas kedua sendi bahu\n
         <b>Gerakan :</b>\n
-        a. Putar sendi bahu sama kearah depan, lalu keatas lalu kebelakang, lalu kebawah, lalu kedepan lagi dan seterusnya\n
+        a. Putar sendi bahu sama kearah depan, lalu keatas lalu kebelakang, lalu kebawah, lalu kedepan lagi dan
+        seterusnya\n
         b. Pada saat arah putaran kebelakang, makan kedua tulang lekat mendekat satu sama lain\n
-        c. Lakukan 15 kali gerakan untuk setiap 5 kali gerakan berhenti sebentar. </string>
+        c. Lakukan 15 kali gerakan untuk setiap 5 kali gerakan berhenti sebentar.
+    </string>
 
     <string name="mengatasi_pertama">Berbagi ceritalah dengan suami tentang kesehatan dan segala hal yang merasa anda
         terbebani
@@ -237,7 +253,7 @@
     </string>
     <string name="memandikan_bayi_kedelapan">Mengeramasi rambut bayi dengan shampo</string>
     <string name="memandikan_bayi_kesembilan">Membersihkan seluruh tubuh bayi dengan shampoo</string>
-    <string name="memandikan_bayi_kesepuluh">egang bayi dengan cara menyangga tubuhnya dan pegang erat ketiaknya.
+    <string name="memandikan_bayi_kesepuluh">Pegang bayi dengan cara menyangga tubuhnya dan pegang erat ketiaknya.
     </string>
     <string name="memandikan_bayi_kesebelas">Memindahkan bayi ke dalam bak mandi</string>
     <string name="memandikan_bayi_keduabelas">Membersihkan badan bayi dan kepala bayi bagian depan menggunakan waslap
@@ -251,11 +267,21 @@
     <string name="memandikan_bayi_kedelapanbelas">Memberikan bayi pada ibu</string>
     <string name="memandikan_bayi_kesembilanbelas">Merapikan alat-alat</string>
     <string name="memandikan_bayi_keduapuluh">Cuci tangan</string>
-    
-    <string name="info_pengertian">adalah pemberian vaksin kepada seseorang untuk melindunginya dari beberapa penyakit tertentu. Imunisasi merupakan upaya untuk mencegah penyakit lewat peningkatan kekebalan tubuh seseorang (Badan Litbangkes, 2008). Imunisasi merupakan suatu upaya pencegahan yang paling efektif untuk mencegah penularan penyakit hepatitis B. Word Health Organization (WHO) melalui program The Expanded Program on Immunisation (EPI) merekomendasikan pemberian vaksinasi terhadap 7 jenis antigen penyakit sebagai imunisasi rutin di Negara berkembang, yaitu BCG, DPT, Polio, Campak dan Hepatitis B.</string>
-    <string name="info_tujuan">adalah untuk mencegah terjadinya penyakit tertentu pada seseorang dan menghilangkan penyakit tertentu pada sekelompok masyarakat (populasi) atau bahkan menghilangkan penyakit tertentu dari dunia seperti pada imuniasi cacar variola. Keadaan yang terakhir ini lebih mungkin terjadi pada jenis penyakit yang hanya dapat ditularkan manusia, penyakit difteria (Matondang, C.S., Siregar, 2008).</string>
+
+    <string name="info_pengertian">adalah pemberian vaksin kepada seseorang untuk melindunginya dari beberapa penyakit
+        tertentu. Imunisasi merupakan upaya untuk mencegah penyakit lewat peningkatan kekebalan tubuh seseorang (Badan
+        Litbangkes, 2008). Imunisasi merupakan suatu upaya pencegahan yang paling efektif untuk mencegah penularan
+        penyakit hepatitis B. Word Health Organization (WHO) melalui program The Expanded Program on Immunisation (EPI)
+        merekomendasikan pemberian vaksinasi terhadap 7 jenis antigen penyakit sebagai imunisasi rutin di Negara
+        berkembang, yaitu BCG, DPT, Polio, Campak dan Hepatitis B.
+    </string>
+    <string name="info_tujuan">adalah untuk mencegah terjadinya penyakit tertentu pada seseorang dan menghilangkan
+        penyakit tertentu pada sekelompok masyarakat (populasi) atau bahkan menghilangkan penyakit tertentu dari dunia
+        seperti pada imuniasi cacar variola. Keadaan yang terakhir ini lebih mungkin terjadi pada jenis penyakit yang
+        hanya dapat ditularkan manusia, penyakit difteria (Matondang, C.S., Siregar, 2008).
+    </string>
     <string name="info_jadwal_usia1">USIA</string>
-    <string name="info_jadwal_usia2"> 0-7 hari</string>
+    <string name="info_jadwal_usia2">0-7 hari</string>
     <string name="info_jadwal_usia3">1 Bulan</string>
     <string name="info_jadwal_usia4">2 Bulan</string>
     <string name="info_jadwal_usia5">U 3 Bulan</string>
@@ -316,7 +342,7 @@
         Kap serviks. Alat ini juga menutupi serviks.
     </string>
     <string name="kb_keenam">
-        1) Suami memakai kondom setiap berhubungan seksual.\n
+        1) Suami memakai kondom setiap berhubungan.\n
         2) Istri minum pil KB tiap hari secara teratur.\n
         3) Istri disuntik KB.\n
         4) Di lengan istri dipasangi susuk KB.\n
@@ -444,4 +470,6 @@
     <string name="faktaBBL_12">Cabai merah atau bawang merah dapat mengiritasi kulit bayi yang sangat sensitif.
         Sejatinya lesung pipi dapat terbentuk karena kecacatan otot pipi yang ukurannya lebih pendek daripada normal.
     </string>
+
+    <string name="tanya_bidan">Ini merupakan halaman tanya bidan</string>
 </resources>

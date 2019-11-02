@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.example.nifasku.deskripsiC.DescInformasiKB
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.content_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -26,6 +27,10 @@ class MainActivity : AppCompatActivity() {
 
         tips_keempat.setOnClickListener {
             startActivity(Intent(this, MitosDanFaktaActivity::class.java))
+        }
+
+        tanya_bidan.setOnClickListener {
+            startActivity(Intent(this, TanyaBidanActivity::class.java))
         }
     }
 }
